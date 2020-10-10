@@ -7,3 +7,4 @@ Js
 Bootstrap
 
 You can access the preview of website by index.html file. 
+![alt text](http://url/to/img.png)
